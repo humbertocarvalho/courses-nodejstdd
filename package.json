@@ -1,0 +1,16 @@
+{
+  "name": "courses-nodejstdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/humbertocarvalho/courses-nodejstdd.git",
+  "author": "Humberto de Carvalho <hvcarvalhobrt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.0",
+    "pg": "^7.11.0",
+    "sequelize": "^5.8.6"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.4.0"
+  }
+}
