@@ -1,5 +1,4 @@
 const routes = require('express').Router();
-
-// Definição rotas
+const { User } = require('./app/models');
 
 module.exports = routes;
